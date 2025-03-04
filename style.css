@@ -1,0 +1,13 @@
+.container{
+    border:dotted red;
+    padding: 20px 50px 100px 0px;
+    margin:0 auto;
+    width: 50%;
+
+    
+}
+.inner-container{
+    border:solid blue;
+    padding: 20px;
+    margin: 5%;
+}
